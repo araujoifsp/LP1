@@ -1,0 +1,10 @@
+Avaliação LP
+
+Questionario - 3
+Atividade Pratica - 2
+ Projeto 1 - 2
+ projeto 2 - 3
+
+media
+
+(q*3)+(ap * 2)+(p1*2)+(p2*3)/10
